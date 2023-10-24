@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    background-color: rgba(218, 203, 203, 0.842);
+}
+
+header {
+    background-color: #ff0000cb; 
+    color: rgb(245, 242, 242); 
+    text-align: center; 
+    padding: 20px; 
+}
+
+main {
+    width: 30rem;
+    margin: 1rem auto;
+}
+
+p {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.image-section {
+    text-align: center; 
+}
+
+
+.image-section img {
+    border-radius: 50%; 
+    margin: 10px; 
+    display: inline-block; 
+    max-width: 45%; 
+    vertical-align: middle;
+}
+
+.alunos {
+    font-weight: bold; 
+    font-size: 16px; 
+    text-transform: uppercase; 
+}
